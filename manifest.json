@@ -2,7 +2,7 @@
   "name": "Pipelines",
   "short_name": "Pipelines",
   "description": "Capture your seeds. Grow your ideas.",
-  "start_url": "./pipelines.html",
+  "start_url": "/CompassCore-Pipelines/.",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0e0e0e",
